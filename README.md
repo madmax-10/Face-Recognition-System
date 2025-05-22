@@ -147,24 +147,21 @@ Lists all Python libraries (e.g., `face_recognition`, `pyttsx3`, `SpeechRecognit
 2. Create a feature branch:
 
    ```bash
+   git checkout -b feature/YourFeature
    ```
 
-git checkout -b feature/YourFeature
-
-````
 3. Commit your changes:
+   
 ```bash
 git commit -m "Add awesome feature"
-````
+```
 
 4. Push your branch:
 
    ```bash
+   git push origin feature/YourFeature
    ```
-
-git push origin feature/YourFeature
-
-```
+   
 5. Open a Pull Request
 
 Please update `requirements.txt` and document any new scripts or modules in this `README.md`.
