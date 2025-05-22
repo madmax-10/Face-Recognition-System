@@ -4,3 +4,5 @@ opencv_python==4.10.0.84
 pyttsx3==2.98
 SpeechRecognition==3.10.4
 text2digits==0.1.0
+setuptools==75.6.0
+PyAudio==0.2.14
